@@ -32,10 +32,12 @@ This project is my attempt to use **data storytelling** to highlight where respo
 ---
 
 ## 📂 Repository Structure
-sql/ → SQL schema, ETL scripts, analysis queries
-data/ → CSV datasets (population, income, land area, deforestation, emissions)
-docs/ → Project report & visuals
-README.md → This file
+- [sql/](sql) → MySQL schema, ETL scripts, queries  
+- [python/](python) → Data cleaning scripts (pandas)  
+- [dax/](dax) → Power BI measures  
+- [data/](data) → Clean datasets (population, income, land area, deforestation, emissions)  
+- [docs/](docs) → Schema & dashboard images  
+- [README.md](README.md) → This file  
 
 ---
 
@@ -45,6 +47,23 @@ README.md → This file
 3. **Load** — Built a **MySQL relational database** with PKs (`country_code, year`) and merged fact tables.  
 4. **Model** — Created a **star schema** with `dim_country` and fact tables (`Fact_Emissions`, `Fact_Deforestation`).  
 5. **Visualize** — Designed a dual-page Power BI dashboard + 2025 forecast.  
+
+---
+
+# 📊 Visuals
+
+### Database Schema
+![Database Schema](docs/schema.png)
+
+### Dashboards
+**CO₂ Emissions (The Emission Gap)**  
+![Emissions Dashboard](docs/dashboard_emissions.png)
+
+**Deforestation (Forest Decline)**  
+![Deforestation Dashboard](docs/dashboard_deforestation.png)
+
+**Forest Cover Forecast (2025 & Beyond)**  
+![Forest Forecast](docs/forecast.png)
 
 ---
 
@@ -88,9 +107,9 @@ README.md → This file
 ---
 
 ## 📚 References
-- [World Bank Open Data](https://data.worldbank.org)  
-- [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi)  
-- [pandas Documentation](https://pandas.pydata.org)
+- [World Bank Open Data](https://data.worldbank.org/)  
+- [Power BI Documentation](https://learn.microsoft.com/power-bi/)  
+- [pandas Documentation](https://pandas.pydata.org/docs/)  
 
 
 ## 👤 About Me
