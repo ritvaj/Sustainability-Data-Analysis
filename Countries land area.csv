@@ -1,0 +1,267 @@
+Country Name,Country Code,year,land_area
+Aruba,ABW,2020,180
+Africa Eastern and Southern,AFE,2020,14845090.23
+Afghanistan,AFG,2020,652230
+Africa Western and Central,AFW,2020,9045770
+Angola,AGO,2020,1246700
+Albania,ALB,2020,27400
+Andorra,AND,2020,470
+Arab World,ARB,2020,13100549
+United Arab Emirates,ARE,2020,71020
+Argentina,ARG,2020,2736690
+Armenia,ARM,2020,28470
+American Samoa,ASM,2020,200
+Antigua and Barbuda,ATG,2020,440
+Australia,AUS,2020,7692020
+Austria,AUT,2020,82520
+Azerbaijan,AZE,2020,82646
+Burundi,BDI,2020,25680
+Belgium,BEL,2020,30494
+Benin,BEN,2020,112760
+Burkina Faso,BFA,2020,273600
+Bangladesh,BGD,2020,130170
+Bulgaria,BGR,2020,108560
+Bahrain,BHR,2020,785
+"Bahamas, The",BHS,2020,10010
+Bosnia and Herzegovina,BIH,2020,51200
+Belarus,BLR,2020,202980
+Belize,BLZ,2020,22810
+Bermuda,BMU,2020,54
+Bolivia,BOL,2020,1083300
+Brazil,BRA,2020,8358140
+Barbados,BRB,2020,430
+Brunei Darussalam,BRN,2020,5270
+Bhutan,BTN,2020,38140
+Botswana,BWA,2020,566730
+Central African Republic,CAF,2020,622980
+Canada,CAN,2020,8965590
+Central Europe and the Baltics,CEB,2020,1105004.93
+Switzerland,CHE,2020,39509.63
+Channel Islands,CHI,2020,198
+Chile,CHL,2020,743532
+China,CHN,2020,9388210
+Cote d'Ivoire,CIV,2020,318000
+Cameroon,CMR,2020,472710
+"Congo, Dem. Rep.",COD,2020,2267050
+"Congo, Rep.",COG,2020,341500
+Colombia,COL,2020,1109500
+Comoros,COM,2020,1861
+Cabo Verde,CPV,2020,4030
+Costa Rica,CRI,2020,51060
+Caribbean small states,CSS,2020,393397.61
+Cuba,CUB,2020,103800
+Curacao,CUW,2020,444
+Cayman Islands,CYM,2020,240
+Cyprus,CYP,2020,9240
+Czechia,CZE,2020,77198.53
+Germany,DEU,2020,349390
+Djibouti,DJI,2020,23180
+Dominica,DMA,2020,750
+Denmark,DNK,2020,40000
+Dominican Republic,DOM,2020,48198.02
+Algeria,DZA,2020,2381741
+East Asia & Pacific (excluding high income),EAP,2020,15986074.8
+Early-demographic dividend,EAR,2020,33315046.03
+East Asia & Pacific,EAS,2020,24469416.7
+Europe & Central Asia (excluding high income),ECA,2020,5907730.6
+Europe & Central Asia,ECS,2020,27440780.89
+Ecuador,ECU,2020,248360
+"Egypt, Arab Rep.",EGY,2020,995450
+Euro area,EMU,2020,2736151.105
+Eritrea,ERI,2020,121040.829
+Spain,ESP,2020,499556.645
+Estonia,EST,2020,42750
+Ethiopia,ETH,2020,1128571.4
+European Union,EUU,2020,3996659.635
+Fragile and conflict affected situations,FCS,2020,20454301.23
+Finland,FIN,2020,303940
+Fiji,FJI,2020,18270
+France,FRA,2020,547557
+Faroe Islands,FRO,2020,1366
+"Micronesia, Fed. Sts.",FSM,2020,700
+Gabon,GAB,2020,257670
+United Kingdom,GBR,2020,241930
+Georgia,GEO,2020,69490
+Ghana,GHA,2020,227530
+Gibraltar,GIB,2020,10
+Guinea,GIN,2020,245720
+"Gambia, The",GMB,2020,10120
+Guinea-Bissau,GNB,2020,28120
+Equatorial Guinea,GNQ,2020,28050
+Greece,GRC,2020,128900
+Grenada,GRD,2020,340
+Greenland,GRL,2020,410450
+Guatemala,GTM,2020,107160
+Guam,GUM,2020,540
+Guyana,GUY,2020,196850
+High income,HIC,2020,51929301.19
+"Hong Kong SAR, China",HKG,2020,1050
+Honduras,HND,2020,111890
+Heavily indebted poor countries (HIPC),HPC,2020,19394763.23
+Croatia,HRV,2020,55960
+Haiti,HTI,2020,27560
+Hungary,HUN,2020,91260
+IBRD only,IBD,2020,70770315.42
+IDA & IBRD total,IBT,2020,96059576.26
+IDA total,IDA,2020,25289260.84
+IDA blend,IDB,2020,4585137.61
+Indonesia,IDN,2020,1877519
+IDA only,IDX,2020,20704123.23
+Isle of Man,IMN,2020,570
+India,IND,2020,2973190
+Not classified,INX,2020,
+Ireland,IRL,2020,68890
+"Iran, Islamic Rep.",IRN,2020,1622500
+Iraq,IRQ,2020,434128
+Iceland,ISL,2020,100830
+Israel,ISR,2020,21640
+Italy,ITA,2020,295717
+Jamaica,JAM,2020,10830
+Jordan,JOR,2020,88794
+Japan,JPN,2020,364500
+Kazakhstan,KAZ,2020,2699700
+Kenya,KEN,2020,569140
+Kyrgyz Republic,KGZ,2020,191800
+Cambodia,KHM,2020,176520
+Kiribati,KIR,2020,810
+St. Kitts and Nevis,KNA,2020,260
+"Korea, Rep.",KOR,2020,97600
+Kuwait,KWT,2020,17820
+Latin America & Caribbean (excluding high income),LAC,2020,17944205.63
+Lao PDR,LAO,2020,230800
+Lebanon,LBN,2020,10230
+Liberia,LBR,2020,96320
+Libya,LBY,2020,1759540
+St. Lucia,LCA,2020,610
+Latin America & Caribbean,LCN,2020,20043375.63
+Least developed countries: UN classification,LDC,2020,20359993.23
+Low income,LIC,2020,14745302.23
+Liechtenstein,LIE,2020,160
+Sri Lanka,LKA,2020,61860
+Lower middle income,LMC,2020,17879554
+Low & middle income,LMY,2020,77133374.26
+Lesotho,LSO,2020,30360
+Late-demographic dividend,LTE,2020,44521586.4
+Lithuania,LTU,2020,62620
+Luxembourg,LUX,2020,2574.46
+Latvia,LVA,2020,62230
+"Macao SAR, China",MAC,2020,32.9
+St. Martin (French part),MAF,2020,50
+Morocco,MAR,2020,446300
+Monaco,MCO,2020,2.027
+Moldova,MDA,2020,32884.6
+Madagascar,MDG,2020,581800
+Maldives,MDV,2020,300
+Middle East & North Africa,MEA,2020,11217108
+Mexico,MEX,2020,1943950
+Marshall Islands,MHL,2020,180
+Middle income,MIC,2020,62388072.03
+North Macedonia,MKD,2020,25220
+Mali,MLI,2020,1220190
+Malta,MLT,2020,320
+Myanmar,MMR,2020,652670
+Middle East & North Africa (excluding high income),MNA,2020,8634843
+Montenegro,MNE,2020,13450
+Mongolia,MNG,2020,1557506.803
+Northern Mariana Islands,MNP,2020,460
+Mozambique,MOZ,2020,786380
+Mauritania,MRT,2020,1030700
+Mauritius,MUS,2020,1997
+Malawi,MWI,2020,94280
+Malaysia,MYS,2020,328550
+North America,NAC,2020,18113064
+Namibia,NAM,2020,823290
+New Caledonia,NCL,2020,18280
+Niger,NER,2020,1266700
+Nigeria,NGA,2020,910770
+Nicaragua,NIC,2020,120340
+Netherlands,NLD,2020,33670
+Norway,NOR,2020,364285
+Nepal,NPL,2020,143350
+Nauru,NRU,2020,20
+New Zealand,NZL,2020,263310
+OECD members,OED,2020,35508806.27
+Oman,OMN,2020,309500
+Other small states,OSS,2020,275703
+Pakistan,PAK,2020,770880
+Panama,PAN,2020,74180
+Peru,PER,2020,1280000
+Philippines,PHL,2020,298170
+Palau,PLW,2020,460
+Papua New Guinea,PNG,2020,452860
+Poland,POL,2020,306130
+Pre-demographic dividend,PRE,2020,20308679.83
+Puerto Rico,PRI,2020,8870
+"Korea, Dem. People's Rep.",PRK,2020,120410
+Portugal,PRT,2020,91605.6
+Paraguay,PRY,2020,397300
+West Bank and Gaza,PSE,2020,6020
+Pacific island small states,PSS,2020,64150
+Post-demographic dividend,PST,2020,31345475.17
+French Polynesia,PYF,2020,3471
+Qatar,QAT,2020,11490
+Romania,ROU,2020,230080
+Russian Federation,RUS,2020,16376870
+Rwanda,RWA,2020,24670
+South Asia,SAS,2020,4770120
+Saudi Arabia,SAU,2020,2149690
+Sudan,SDN,2020,1868000
+Senegal,SEN,2020,192530
+Singapore,SGP,2020,718
+Solomon Islands,SLB,2020,27990
+Sierra Leone,SLE,2020,72180
+El Salvador,SLV,2020,20720
+San Marino,SMR,2020,60
+Somalia,SOM,2020,627340
+Serbia,SRB,2020,84090
+Sub-Saharan Africa (excluding high income),SSA,2020,23890400.23
+South Sudan,SSD,2020,631930
+Sub-Saharan Africa,SSF,2020,23890860.23
+Small states,SST,2020,733250.61
+Sao Tome and Principe,STP,2020,960
+Suriname,SUR,2020,160507.61
+Slovak Republic,SVK,2020,48080
+Slovenia,SVN,2020,20136.4
+Sweden,SWE,2020,407280
+Eswatini,SWZ,2020,17200
+Sint Maarten (Dutch part),SXM,2020,34
+Seychelles,SYC,2020,460
+Syrian Arab Republic,SYR,2020,183630
+Turks and Caicos Islands,TCA,2020,950
+Chad,TCD,2020,1259200
+East Asia & Pacific (IDA & IBRD countries),TEA,2020,15866144.8
+Europe & Central Asia (IDA & IBRD countries),TEC,2020,22985330.6
+Togo,TGO,2020,54390
+Thailand,THA,2020,510890
+Tajikistan,TJK,2020,138790
+Turkmenistan,TKM,2020,469930
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,19918297.63
+Timor-Leste,TLS,2020,14870
+Middle East & North Africa (IDA & IBRD countries),TMN,2020,8628823
+Tonga,TON,2020,720
+South Asia (IDA & IBRD),TSA,2020,4770120
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2020,23890860.23
+Trinidad and Tobago,TTO,2020,5130
+Tunisia,TUN,2020,155360
+Turkiye,TUR,2020,769630
+Tuvalu,TUV,2020,30
+Tanzania,TZA,2020,885800
+Uganda,UGA,2020,200520
+Ukraine,UKR,2020,579400
+Upper middle income,UMC,2020,44508518.03
+Uruguay,URY,2020,175020
+United States,USA,2020,9147420
+Uzbekistan,UZB,2020,440650
+St. Vincent and the Grenadines,VCT,2020,390
+"Venezuela, RB",VEN,2020,882050
+British Virgin Islands,VGB,2020,150
+Virgin Islands (U.S.),VIR,2020,350
+Viet Nam,VNM,2020,313429
+Vanuatu,VUT,2020,12190
+World,WLD,2020,129944725.5
+Samoa,WSM,2020,2780
+Kosovo,XKX,2020,
+"Yemen, Rep.",YEM,2020,527970
+South Africa,ZAF,2020,1213090
+Zambia,ZMB,2020,743390
+Zimbabwe,ZWE,2020,386850
