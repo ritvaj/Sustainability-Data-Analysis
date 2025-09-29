@@ -80,8 +80,7 @@ README.md → This file
 
 ---
 
-## 🚀 How I’d Improve It (Next Iteration)
-- Add **yearly data** for population/income (instead of static 1990) to strengthen time-series accuracy.  
+## 🚀 How I’d Improve It (Next Iteration) 
 - Automate the full ETL pipeline with **Python scripts** instead of manual Excel cleaning.  
 - Deploy dashboards to **Power BI Service** for real-time interaction instead of local PBIX.  
 - Integrate **cloud SQL (AWS RDS / GCP)** for production-scale datasets.  
