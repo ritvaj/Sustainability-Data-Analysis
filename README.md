@@ -108,13 +108,11 @@ This project is my attempt to use **data storytelling** to highlight where respo
 
 ## 📚 References
 
-- [World Bank: CO₂ emissions (metric tons per capita)](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)  
-- [World Bank: CO₂ emissions (kt)](https://data.worldbank.org/indicator/EN.ATM.CO2E.KT)  
-- [World Bank: Forest area (% of land area)](https://data.worldbank.org/indicator/AG.LND.FRST.ZS)  
-- [World Bank: Forest area (sq. km)](https://data.worldbank.org/indicator/AG.LND.FRST.K2)  
-- [World Bank: Population, total](https://data.worldbank.org/indicator/SP.POP.TOTL)  
-- [World Bank: Land area (sq. km)](https://data.worldbank.org/indicator/AG.LND.TOTL.K2)  
-- [World Bank: Income group classification](https://databankfiles.worldbank.org/public/ddpext_download/CLASS.xls)  
+- [World Bank: Income per capita](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)  
+- [World Bank: Population](https://data.worldbank.org/indicator/EN.ATM.CO2E.KT)  
+- [World Bank: Land area](https://data.worldbank.org/indicator/AG.LND.TOTL.K2)  
+- [World Bank: Co2 emissions](https://data.worldbank.org/indicator/AG.LND.FRST.K2)  
+- [World Bank: Deforestation](https://data.worldbank.org/indicator/SP.POP.TOTL) 
 
  
 
