@@ -39,7 +39,7 @@ This project is my attempt to use **data storytelling** to highlight where respo
 - [python/](python) → Data cleaning scripts (pandas)  
 - [dax/](dax) → Power BI measures  
 - [data/](data) → Clean datasets (population, income, land area, deforestation, emissions)  
-- [docs/](docs) → Schema & dashboard images  
+- [docs/](docs) → project report pdf/Schema & dashboard images  
 - [README.md](README.md) → This file  
 
 ---
