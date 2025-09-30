@@ -72,13 +72,13 @@ This project is my attempt to use **data storytelling** to highlight where respo
 
 ## 📊 Key Insights
 - **The Emission Gap:**  
-  - High/upper-middle income countries = **82.2% of global CO₂ emissions** but only **44.5% of the world’s population**.  
+  - High/upper-middle income countries are responsible for most of the emissions = **82.2% of global CO₂ emissions** but only **44.5% of the world’s population**.
   - Per capita, Qatar (37.8t) and Bahrain are extreme outliers.  
 
 - **Forest Decline:**  
-  - Rapid loss in Brazil, Indonesia, and Congo.  
-  - Serbia lost **3.8% of its total forest area in a single year**.  
-  - Two-thirds of countries have <40% forest cover.  
+  - In low and lower-middle income countries, forests are vanishing faster due to reliance on natural resource extraction for economic survival.    
+  - Two-thirds of countries have <40% forest cover.
+   
 
 - **Forecasting:**  
   - By 2025, tropical nations like Brazil and Indonesia continue downward trends without major reforestation.  
@@ -91,13 +91,13 @@ This project is my attempt to use **data storytelling** to highlight where respo
   - *The Emission Gap* (income vs emissions).  
   - *Forest Decline* (global deforestation risk).  
 - Forecast chart with Power BI’s built-in analytics.  
-- Accessibility-first: clear labels, high contrast, alt text, big-font data labels.  
+- Accessibility-first: clear labels, high contrast colors, alt text, big-font data labels.  
 
 ---
 
 ## 💡 Lessons Learned
-- **ETL matters as much as visuals** — cleaning and consistent schemas saved hours of debugging later.  
-- **SQL PK design** is critical for relational integrity. Using `(country_code, year)` was a game changer.  
+- **ETL matters as much as visuals** — cleaning and consistent schemas saved hours of debugging later.
+-  Creating **meaningful tags** from raw parameters can lead to much richer analysis — e.g., in this project, I tagged countries by income per capita into Low / Lower-Middle / Upper-Middle / High income groups to uncover inequality patterns.
 - **Storytelling > charts** — recruiters and stakeholders remember narratives, not bar charts.  
 
 ---
@@ -120,5 +120,5 @@ This project is my attempt to use **data storytelling** to highlight where respo
  
 
 ## 👤 About Me
-I’m **Ritvaj Madotra**, a data analyst passionate about combining **SQL, BI, and storytelling** to drive impact.  
+I’m **Ritvaj Madotra**, a data analyst passionate about combining **SQL, Python, BI, and storytelling** to drive business impact.  
 📌 Connect: [LinkedIn](https://www.linkedin.com/in/ritvajmadotra) | [GitHub](https://github.com/ritvaj)
