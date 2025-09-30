@@ -32,7 +32,10 @@ This project is my attempt to use **data storytelling** to highlight where respo
 ---
 
 ## 📂 Repository Structure
-- [sql/](sql) → MySQL schema, ETL scripts, queries  
+- [sql/](sql)  
+  - [schema_and_etl.sql](sql/schema_&_ETL.sql) → Creates tables and loads data from staging tables.  
+  - [analysis_queries.sql](sql/analysis_queries.sql) → Analysis queries used to generate insights for dashboards.  
+  - [validation_checks.sql](sql/validation_checks.sql) → Row counts, null checks, and min/max year checks.   
 - [python/](python) → Data cleaning scripts (pandas)  
 - [dax/](dax) → Power BI measures  
 - [data/](data) → Clean datasets (population, income, land area, deforestation, emissions)  
