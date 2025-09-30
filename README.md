@@ -33,7 +33,7 @@ This project is my attempt to use **data storytelling** to highlight where respo
 
 ## 📂 Repository Structure
 - [sql/](sql)  
-  - [schema_and_etl.sql](sql/schema_&_ETL.sql) → Creates tables and loads data from staging tables.  
+  - [schema_and_etl.sql](sql/schema_and_ETL.sql) → Creates tables and loads data from staging tables.  
   - [analysis_queries.sql](sql/analysis_queries.sql) → Analysis queries used to generate insights for dashboards.  
   - [validation_checks.sql](sql/validation_checks.sql) → Row counts, null checks, and min/max year checks.   
 - [python/](python) → Data cleaning scripts (pandas)  
