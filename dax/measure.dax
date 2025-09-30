@@ -1,0 +1,66 @@
+-- ============================================================
+-- Power BI / DAX measures for Sustainability Trends project
+-- File: dax/measures.dax
+-- Purpose: Core measures used in CO₂ Emissions and Deforestation visuals
+-- ============================================================
+
+
+-- ------------------------------
+-- CO₂ emissions measures
+-- ------------------------------
+
+-- Total CO₂ Emissions (Mt CO2)
+Total CO2 Emissions (Mt) =
+SUM(co2_emissions[emission_mtco2])
+
+
+-- Average CO₂ Emission per Capita (tonnes)
+Avg CO2 Emission Per Capita (tonnes) =
+DIVIDE(
+    SUM(co2_emissions[emission_mtco2]) * 1000000,  -- convert Mt -> tonnes
+    SUM(co2_emissions[Population]),
+    BLANK()                                         -- safe alternative if denom = 0
+)
+
+
+-- Population share (%) by Income Group
+Population % by Income Group =
+DIVIDE(
+    SUM(co2_emissions[Population]),
+    CALCULATE(
+        SUM(co2_emissions[Population]),
+        ALL(co2_emissions[Income Group])            -- remove Income Group filter to get total
+    ),
+    0
+)
+
+
+-- ------------------------------
+-- Deforestation measures
+-- ------------------------------
+
+-- Forest Area Loss (km²) between consecutive years (absolute)
+Forest Area Loss (km2) =
+VAR ThisYear = MAX(Deforestation[Year])
+VAR PrevYear = ThisYear - 1
+
+VAR ThisVal =
+    CALCULATE(
+        SUM(Deforestation[Forested_Area(sq.km)]),
+        Deforestation[Year] = ThisYear,
+        ALLEXCEPT(Deforestation, Deforestation[Country_name])
+    )
+
+VAR PrevVal =
+    CALCULATE(
+        SUM(Deforestation[Forested_Area(sq.km)]),
+        Deforestation[Year] = PrevYear,
+        ALLEXCEPT(Deforestation, Deforestation[Country_name])
+    )
+
+RETURN
+IF(
+    OR(ISBLANK(ThisVal), ISBLANK(PrevVal)),
+    BLANK(),
+    ABS(PrevVal - ThisVal)
+)
