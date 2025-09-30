@@ -48,7 +48,7 @@ This project is my attempt to use **data storytelling** to highlight where respo
 1. **Extract** — Collected World Bank datasets on emissions, deforestation, population, land area, and income.  
 2. **Transform** — Cleaned with Python & Excel; standardized headers, dropped nulls, profiled values.  
 3. **Load** — Built a **MySQL relational database** with PKs (`country_code, year`) and merged fact tables.  
-4. **Model** — Created a **star schema** with `dim_country` and fact tables (`Fact_Emissions`, `Fact_Deforestation`).  
+4. **Model** — Created a **star schema** with `Dim_Year` and fact tables (`co2_emissions`, `Deforestation`).  
 5. **Visualize** — Designed a dual-page Power BI dashboard + 2025 forecast.  
 
 ---
