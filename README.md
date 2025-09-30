@@ -60,7 +60,7 @@ This project is my attempt to use **data storytelling** to highlight where respo
 ![Emissions Dashboard](docs/The_Emission_Gap.jpg)
 
 **Deforestation (Forest Decline)**  
-![Deforestation Dashboard](docs/Forest Decline.jpg) 
+![Deforestation Dashboard](docs/Forest_Decline.jpg) 
 
 **Forest Cover Forecast (2025 & Beyond)**  
 ![Forest Forecast](docs/Forest Cover Forecast.jpg)
