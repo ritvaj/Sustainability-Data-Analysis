@@ -63,7 +63,7 @@ This project is my attempt to use **data storytelling** to highlight where respo
 ![Deforestation Dashboard](docs/Forest_Decline.jpg) 
 
 **Forest Cover Forecast (2025 & Beyond)**  
-![Forest Forecast](docs/Forest Cover Forecast.jpg)
+![Forest Forecast](docs/Forest_Cover_Forecast.jpg)
 
 ---
 
