@@ -37,9 +37,9 @@ This project is my attempt to use **data storytelling** to highlight where respo
   - [analysis_queries.sql](sql/analysis_queries.sql) → Analysis queries used to generate insights for dashboards.  
   - [validation_checks.sql](sql/validation_checks.sql) → Row counts, null checks, and min/max year checks.   
 - [python/](python) → Data cleaning scripts (pandas)  
-- [dax/](dax) → Power BI measures  
+- [dax/](dax) → Core Power BI measures (CO₂ per-capita, population % by income group, forest area loss)
 - [data/](data) → Clean datasets (population, income, land area, deforestation, emissions)  
-- [docs/](docs) → project report pdf/Schema & dashboard images  
+- [docs/](docs) → Project report PDF, schema diagram, and dashboard images 
 - [README.md](README.md) → This file  
 
 ---
