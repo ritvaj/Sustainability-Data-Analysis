@@ -53,11 +53,11 @@ This project is my attempt to use **data storytelling** to highlight where respo
 # 📊 Visuals
 
 ### Database Schema
-![Database Schema](docs/Relational model.png)
+![Database Schema](docs/Relational_model.png)
 
 ### Dashboards
 **CO₂ Emissions (The Emission Gap)**  
-![Emissions Dashboard](docs/The Emission Gap.jpg)
+![Emissions Dashboard](docs/The_Emission_Gap.jpg)
 
 **Deforestation (Forest Decline)**  
 ![Deforestation Dashboard](docs/Forest Decline.jpg) 
